@@ -1,4 +1,4 @@
-package app.jpek.dev.eggwow;
+package app.jpek.dev.eggprojects;
 
 import org.bukkit.Bukkit;
 import org.bukkit.event.EventHandler;
